@@ -9,7 +9,7 @@ Macera Oyunu
 Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten sonra bölgeye özel ödülü oyunucun envanterine eklenmelidir. Eğer oyuncu tüm ödülleri toplayıp "Güvenli Eve" dönebilirse oyunu kazanır. Ayrıca ödül kazanılan bölgeye tekrar giriş yapılamaz.
 
 
-##`KARAKTERLER`
+`KARAKTERLER`
 
 | Karakter | ID  | Hasar | Sağlık | Para |
 |----------|-----|-------|--------|------|
@@ -17,7 +17,7 @@ Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten 
 | Okçu     | 2   | 7     | 18     | 20   |
 | Şövalye  | 3   | 8     | 24     | 5    |
 
-##`CANAVARLAR`
+`CANAVARLAR`
 
 | Canavar | ID  | Hasar | Sağlık | Para |
 |---------|-----|-------|--------|------|
@@ -25,7 +25,7 @@ Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten 
 | Vampir  | 2   | 4     | 14     | 7    |
 | Ayı     | 3   | 5     | 20     | 12   |
 
-##`SİLAHLAR`
+`SİLAHLAR`
 
 | Silah   | ID  | Hasar | Para |
 |---------|-----|-------|------|
@@ -33,7 +33,7 @@ Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten 
 | Kılıç   | 2   | 3     | 35   |
 | Tüfek   | 3   | 7     | 45   |
 
-##`ZIRHLAR`
+`ZIRHLAR`
 
 | Zırh  | ID  | Engelleme | Para |
 |-------|-----|-----------|------|
@@ -41,7 +41,7 @@ Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten 
 | Orta  | 2   | 3         | 25   |
 | Ağır  | 3   | 5         | 40   |
 
-##`MEKANLAR`
+`MEKANLAR`
 
 | Mekan 	| Özellik 	| Canavar 	| Eşya 	|
 |---	|---	|---	|---	|
@@ -51,6 +51,6 @@ Oyunu bitirebilmek için savaş bölgelerindeki tüm düşmanlar temizlendikten 
 | Nehir 	| Savaş + Ganimet 	| Ayı (1-3 Adet) 	| Su 	|
 | Mağaza 	| Destekleyici Eşyalar Satın Almak 	| - 	| Bilinmiyor 	|
 
-##Sınıf Diyagramı
-
+Sınıf Diyagramı
+-------------
 ![Image](diagram/img.png)
